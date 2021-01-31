@@ -1,0 +1,8 @@
+NaturalGroupingKeyComparator.class
+CompositeKeyComparator.class
+NaturalKeyPartitioner.class
+ReducerClass.class
+MapperClass.class
+CompositeKeyWritable.class
+DriverClass.class
+CompositeValueWritable.class
